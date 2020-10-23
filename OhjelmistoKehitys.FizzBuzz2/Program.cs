@@ -18,7 +18,7 @@ namespace OhjelmistoKehitys.FizzBuzz2
                     Console.WriteLine("-------------------");
 
                     Console.WriteLine("Anna luku 1-100");
-
+                    //kommentti
                     int syöte = int.Parse(Console.ReadLine());
 
                     if(syöte > 100)
